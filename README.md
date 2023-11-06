@@ -1,5 +1,5 @@
 # django-task
-Simple Django REST aplication to list currency pair and historical in admin site.
+Simple Django REST aplication to list currency pair and historical rates in admin site.
 
 
 ## Build and run
